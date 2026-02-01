@@ -1,63 +1,43 @@
 👋 Hi, I’m Darshan Aher  
 
 🎓 B.Tech student in Artificial Intelligence & Data Science  
-⚡ Diploma holder in Electrical Engineering  
-📍 India  
+⚡ Diploma in Electrical Engineering  
 
-I’m a passionate engineering student who enjoys building real-world solutions by combining **AI, Data Science, IoT, and Automation**. With a strong foundation in **electrical systems** and hands-on experience in **ESP32, sensors, and smart automation**, I aim to bridge hardware and intelligent software.
+I am a motivated **engineering fresher** with a strong interest in **Artificial Intelligence, Data Science, IoT, and SAP technologies**. I enjoy learning new technologies and applying them through **hands-on projects and practical implementations**.
 
----
+With a background in **electrical engineering** and current exposure to **AI-driven systems**, I aim to build solutions that are **efficient, smart, and industry-relevant**.
 
-🔭 Currently Working On  
-• AI & Data Science mini and major projects  
-• IoT-based smart automation systems  
-• SAP ABAP development and certification  
-• Real-time problem-solving projects  
-
----
+━━━━━━━━━━━━━━━━━━━
 
 🌱 Currently Learning  
 • Machine Learning & Data Analysis  
-• SAP ABAP (Reports, Debugging, Data Dictionary)  
-• AIoT (AI + IoT integration)  
-• Database Management & Enterprise systems  
+• SAP ABAP fundamentals and debugging  
+• AI + IoT (smart automation concepts)  
+• Database & enterprise systems  
 
----
+━━━━━━━━━━━━━━━━━━━
 
-👯 Looking to Collaborate On  
-• AI / ML projects  
-• Data Science & analytics projects  
-• IoT & automation solutions  
-• Open-source and academic projects  
-
----
-
-🤝 Looking for Opportunities  
-• Internships in AI, Data Science, SAP, or IoT  
-• Entry-level tech roles  
-• Freelance & project-based work  
-
----
-
-💬 Ask Me About  
-• Artificial Intelligence & Data Science  
-• IoT projects using ESP32 & sensors  
-• SAP ABAP basics  
-• Python, Java, SQL  
-• Project planning & implementation  
-
----
-
-🛠️ Technical Skills  
+🔧 Skills & Interests  
 • Programming: Python, Java, SQL, HTML  
-• AI/DS: Machine Learning, Data Analysis  
+• AI & Data Science: Basics of ML, Data Analysis  
 • IoT: ESP32, Arduino, Sensors, Automation  
-• SAP: ABAP, Debugging, Reports  
+• SAP: ABAP basics, reports, debugging  
 • Tools: GitHub, Firebase, MIT App Inventor  
 
----
+━━━━━━━━━━━━━━━━━━━
+
+🤝 Open To  
+• Internships & entry-level opportunities  
+• Learning-oriented projects  
+• Technical collaborations  
+• Mentorship and guidance  
+
+━━━━━━━━━━━━━━━━━━━
+
+💬 You can ask me about  
+AI & Data Science basics • IoT projects • SAP ABAP fundamentals • Academic projects  
 
 ⚡ Fun Fact  
-I started with Electrical Engineering and now build intelligent systems using AI 🤖⚡  
+I started my journey with Electrical Engineering and now work towards building intelligent systems using AI 🤖⚡  
 
-📫 Let’s connect and build something impactful together!
+📫 Open to learning, growing, and contributing as a fresher in the tech industry.
